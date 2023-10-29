@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm emadb an Italian software engineer that loves clean code and agile practices.
+
 <!--
 **emadb/emadb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
