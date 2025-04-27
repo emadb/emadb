@@ -1,7 +1,13 @@
 # Hi there, I'm Emanuele DelBono (emadb) 👋
 
 <a href="http://emanueledelbono.it/" target="_blank"><img src="https://img.shields.io/badge/Website-emanueledelbono.it-blue?style=flat-square" alt="Personal Website"></a>
-I'm a Software Engineer based in Italy 🇮🇹 with a passion for writing clean, maintainable code and applying Agile practices. I enjoy working with various technologies and paradigms, especially Domain-Driven Design (DDD) and functional programming concepts.
+<a href="https://bsky.app/profile/emadb.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bsky-@emadb-blue?style=flat-square&logo=bsky" alt="Bluesky Profile"></a>
+<a href="https://blog.codiceplastico.com/author/emanuele/" target="_blank"><img src="https://img.shields.io/badge/Blog-PlasticBlog-orange?style=flat-square" alt="PlasticBlog"></a>
+
+
+I'm a Software Engineer and Co-founder at [**CodicePlastico**](https://codiceplastico.com/), a software house based in Brescia, Italy 🇮🇹, where we focus on crafting quality, tailor-made software solutions.
+
+My passion lies in building robust and maintainable applications through clean code, Agile methodologies, and Domain-Driven Design (DDD). I'm particularly interested in exploring different programming paradigms, including functional concepts and the Actor Model (especially with Elixir). I strongly believe in sharing knowledge and actively contribute to the developer community through speaking engagements, writing articles, and conducting workshops.
 
 ---
 
@@ -13,6 +19,16 @@ Here are some of the technologies and concepts I enjoy working with:
 * **Paradigms & Practices:** Domain-Driven Design (DDD), Clean Code, Agile Methodologies, Test-Driven Development (TDD), Functional Programming
 * **Frameworks/Libraries:** Framewokless advocate
 * **Databases:** PostgreSQL, SQL Server, MongoDb, Redis
+
+---
+
+### 🎤 Community Contributions & Sharing
+
+* **Speaker:** I actively participate as a speaker at various community events and conferences (e.g., WebDay Conf, Codemotion, UGIdotNET, jsDay and local meetups) on topics ranging from Elixir and DDD to JavaScript frameworks and Agile practices.
+* **Trainer:** Conduct workshops, including one on the Actor Model with [Avanscoperta](https://www.avanscoperta.it/en/trainers/emanuele-delbono/).
+* **Author:** Contributed a chapter on the Actor Model to the book "[Cronache di Domain-Driven Design](https://leanpub.com/cronache-di-domain-driven-design)" and write articles on the [PlasticBlog](https://blog.codiceplastico.com/author/emanuele/).
+
+---
 
 ### 📌 Pinned Repositories
 
