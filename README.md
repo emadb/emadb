@@ -43,7 +43,7 @@ Here are a few projects I've worked on:
 
 ### 📊 My GitHub Stats
 
-![emadb's GitHub stats](https://github-readme-stats.vercel.app/api?username=emadb&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emadb&layout=compact&langs_count=8&theme=radical) ---
+![emadb's GitHub stats](https://github-readme-stats.vercel.app/api?username=emadb&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emadb&layout=compact&langs_count=8) ---
 
 ### 📫 How to reach me:
 * Feel free to open an issue on any of my repositories if you have questions!
