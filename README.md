@@ -1,8 +1,8 @@
-defended earth since 1978<div align="center">
+<div align="center">
 
 <pre>
-00000000  65 6d 61 64 62 20 3a 3a  20 6c 6f 77 5f 6c 65 76  |emadb :: low_lev|
-00000010  65 6c 20 65 6e 67 69 6e  65 65 72 0a 00 c0 ff ee  |el engineer.....|
+00000000  65 6d 61 64 62 20 3a 3a  20 73 6f 66 74 77 61 72  |emadb :: softwar|
+00000010  65 20 65 6e 67 69 6e 65  65 72 0a 00 c0 ff ee 00  |e engineer......|
 00000020  72 75 73 74 c3 1f 80 80  85 80 0a de ad be ef 00  |rust............|
 </pre>
 
@@ -18,7 +18,7 @@ defended earth since 1978<div align="center">
 `; 01010010 01010101 01010011 01010100 — 4 bytes, big-endian, you figure it out`
 
 <a href="https://github.com/emadb">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=800&color=5FFF5F&center=true&vCenter=true&width=680&height=48&lines=%23!%5Bno_std%5D;unsafe+%7B+*(0xC000+as+*mut+u8)+%3D+self+%7D;0xC3+0x07+0x00+++%3B+jmp+.loop+(forever);fn+main()+-%3E+!+%7B+emulate(); defend_earth() %7D" alt="cryptic marquee" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=800&color=5FFF5F&center=true&vCenter=true&width=680&height=48&lines=%23!%5Bno_std%5D;unsafe+%7B+*(0xC000+as+*mut+u8)+%3D+self+%7D;0xC3+0x07+0x00+%3B+jmp+.loop+(forever);fn+main()+-%3E+!+%7B+emulate()%3B+defend_earth()+%7D" alt="cryptic marquee" />
 </a>
 
 <br/>
@@ -39,7 +39,7 @@ defended earth since 1978<div align="center">
    ██        db $18    0b00011000
   ████       db $3C    0b00111100
  ██████      db $7E    0b01111110     ; this is me, stored in 8 bytes
-██ ██ ██     db $DB    0b11011011     ; defended earth since 1978
+██ ██ ██     db $DB    0b11011011     ; defended earth since 1973
 ████████     db $FF    0b11111111
  █ ██ █      db $5A    0b01011010
 █      █     db $81    0b10000001
