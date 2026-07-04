@@ -144,11 +144,6 @@ note: process did not exit. it never does.
 
 </details>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emadb&layout=compact&langs_count=8&theme=dark&hide_border=false&border_color=5FFF5F&bg_color=000000&title_color=5FFF5F&text_color=33CC33" alt="Top Languages" />
 
 <br/>
 <br/>
